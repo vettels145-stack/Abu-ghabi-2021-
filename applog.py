@@ -1,3 +1,6 @@
+import random
+
+
 def human_turn(sticks_left):
     while True:
         try:
@@ -9,5 +12,11 @@ def human_turn(sticks_left):
         except ValueError:
             print("ERROR, type THE NUMBER")
 
-
+def comp_turn(sticks_left):
+    if sticks_left >= 4 and stick_left%4 != 0:
+        comp_take = sticks_left%4
+    else:
+        comp_take = random.randint(1, min(3, stick_left))
+    print(f"Comp takes {comp_take} matches! Keep up)")
+    return comp_take
             
