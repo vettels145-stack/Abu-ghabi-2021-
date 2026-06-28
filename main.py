@@ -29,7 +29,7 @@ if __name__ == "__main__":
     import random
     start_game()
 
-#time.sleep(10)
+time.sleep(10)
 
 
 
