@@ -1,6 +1,6 @@
 # Abu-ghabi-2021-
 stick for everyone)
-Well, boys and girls! It is a console game-app called "Battle for the win". Unfortinatly, there are zero additional history of the game, just needed to make a quick project. With your permission I will continue in russian.)
+Well, boys and girls! It is a console game-app called "Battle for the win". Unfortunately, there are zero additional history of the game, just needed to make a quick project. With your permission I will continue in russian.)
 # Друзья! Это приложение называется "Битва до победы!" 
 ## Правила игры:
 1. Вы играете против "компьютер" под названием LH 44.
