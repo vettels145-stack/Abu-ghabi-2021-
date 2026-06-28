@@ -10,8 +10,8 @@ Well, boys and girls! It is a console game-app called "Battle for the win". Unfo
 5. Брать можно от 1 до 3 спичек за раз, ни больше, ни меньше. При любой отклонении от правил игра отправляет запрос еще раз.
 ## Конец правил.
 ---
-![logo](<img width="674" height="1000" alt="image" src="https://github.com/user-attachments/assets/9fad67dc-5791-4ad8-9220-94cc1432b376" />
-)
+![Logo](<img width="1706" height="922" alt="ChatGPT Image 28 июн  2026 г , 10_04_12" src="https://github.com/user-attachments/assets/2cb5d3a6-224c-452c-b28e-2d0a267053f7" />)
+
 ---
 ### Так же я хочу поблагодарить нашего преподователя, Татьяну Витальевну, за 4 месяца этого курса, это невероятное приключение, которое дало каждому ученику шанс стать лучше! Спасибо вам) 
 # Keep pushing. The journey only started!
